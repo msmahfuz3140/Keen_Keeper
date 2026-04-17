@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Smith",
+    "picture": "https://i.ibb.co.com/ktq5LL7/Ellipse-1-1.png",
+    "email": "alice@example.com",
+    "days_since_contact": 5,
+    "status": "On-Track",
+    "tags": ["work", "teammate"],
+    "bio": "Colleague from office. Works in design team.",
+    "goal": 10,
+    "next_due_date": "2025-07-15"
+  },
+  {
+    "id": 2,
+    "name": "Michael Brown",
+    "picture": "https://i.ibb.co.com/n8gzGP8d/Ellipse-1-9.png",
+    "email": "michael@example.com",
+    "days_since_contact": 20,
+    "status": "overdue",
+    "tags": ["gym", "friend"],
+    "bio": "Workout partner. Motivates me regularly.",
+    "goal": 7,
+    "next_due_date": "2025-07-10"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Wilson",
+    "picture": "https://i.ibb.co.com/vMBnjKR/Ellipse-1-8.png",
+    "email": "sophia@example.com",
+    "days_since_contact": 2,
+    "status": "On-Track",
+    "tags": ["family"],
+    "bio": "Cousin. Very close since childhood.",
+    "goal": 5,
+    "next_due_date": "2025-07-18"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Lee",
+    "picture": "https://i.ibb.co.com/N2036SMD/Ellipse-1-7.png",
+    "email": "daniel@example.com",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": ["business"],
+    "bio": "Business partner in startup.",
+    "goal": 12,
+    "next_due_date": "2025-07-12"
+  },
+  {
+    "id": 5,
+    "name": "Emma Davis",
+    "picture": "https://i.ibb.co.com/hRvyGgJq/Ellipse-1-6.png",
+    "email": "emma@example.com",
+    "days_since_contact": 8,
+    "status": "Almost-due",
+    "tags": ["school", "friend"],
+    "bio": "School friend. Loves reading books.",
+    "goal": 14,
+    "next_due_date": "2025-07-22"
+  },
+  {
+    "id": 6,
+    "name": "James Anderson",
+    "picture": "https://i.ibb.co.com/Xxpx5sYh/Ellipse-1-4.png",
+    "email": "james@example.com",
+    "days_since_contact": 30,
+    "status": "overdue",
+    "tags": ["networking"],
+    "bio": "Met at a tech conference.",
+    "goal": 20,
+    "next_due_date": "2025-07-05"
+  },
+  {
+    "id": 7,
+    "name": "Olivia Martinez",
+    "picture": "https://i.ibb.co.com/tPn7s7T7/Ellipse-1-3.png",
+    "email": "olivia@example.com",
+    "days_since_contact": 1,
+    "status": "On-Track",
+    "tags": ["neighbor"],
+    "bio": "Lives next door. Friendly and helpful.",
+    "goal": 3,
+    "next_due_date": "2025-07-25"
+  },
+  {
+    "id": 8,
+    "name": "William Taylor",
+    "picture": "https://i.ibb.co.com/gK1zdSK/Ellipse-1-2.png",
+    "email": "william@example.com",
+    "days_since_contact": 18,
+    "status": "Allmost-due",
+    "tags": ["mentor"],
+    "bio": "Guides me in career decisions.",
+    "goal": 10,
+    "next_due_date": "2025-07-08"
+  }
+]
+
+

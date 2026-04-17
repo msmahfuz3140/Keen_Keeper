@@ -1,16 +1,31 @@
-# React + Vite
+# 🏠 Keen Keeper
+### Your friends's and families's digital home — organized, connected, and always within reach.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 📖 About
+### Kin Keeper is a modern family management web application designed to help households stay organized, informed, and in sync. Whether you're tracking shared tasks, monitoring household activity, or keeping everyone on the same page — Kin Keeper brings your family together in one intuitive dashboard. 
 
-Currently, two official plugins are available:
+# ✨ Key Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📊 Family and Friend Dashboard & Analytics
+### Get a clear, at-a-glance overview of your household with beautiful charts and data visualizations powered by Recharts. Track activity, progress, and trends across your family — all from one central hub.
 
-## React Compiler
+## 🔔 Real-Time Notifications
+### Stay instantly informed with sleek, non-intrusive toast notifications via React Toastify. Never miss an important update, task completion, or family event again.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🧭 Seamless Multi-Page Navigation
+### Enjoy a fluid, app-like experience with React Router v7 — enabling smooth transitions between dashboard views, profiles, and family management pages without a single page reload.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# 🛠️ Technologies Used 
+### React 19 : UI component library
+### Vite 7 : Lightning-fast build tool & dev server
+### Tailwind CSS 4 : Utility-first styling
+### DaisyUI 5 : Pre-built Tailwind component library
+### React Router 7  : Client-side routing & navigation
+### Vercel : Deployment & hosting
+
+# 🌐 Live Demo
+### 👉 https://kin-keeper-seven.vercel.app
+
+# 👤 Author
+## Yousuf Rahman
