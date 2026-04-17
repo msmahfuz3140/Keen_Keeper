@@ -63,7 +63,7 @@ const Navbar = () => {
 
         <div className="flex items-center justify-between h-16">
 
-          {/* LOGO TEXT */}
+          
           <Link to="/" className="font-bold tracking-wide">
             <h1 className="
               text-xl
@@ -77,10 +77,10 @@ const Navbar = () => {
             </h1>
           </Link>
 
-          {/* DESKTOP MENU */}
+          
           <ul className="hidden md:flex gap-3">{navLinks}</ul>
 
-          {/* PROFESSIONAL HAMBURGER */}
+          
           <button
             onClick={() => setOpen(!open)}
             className="
@@ -99,7 +99,6 @@ const Navbar = () => {
           </button>
         </div>
 
-        {/* MOBILE MENU */}
         <div
           className={`md:hidden overflow-hidden transition-all duration-300 ${open ? "max-h-60 opacity-100 mt-3" : "max-h-0 opacity-0"
             }`}
